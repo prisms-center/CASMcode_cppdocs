@@ -1,0 +1,28 @@
+var class_c_a_s_m_1_1_vasp_i_o_1_1vaspio__impl_1_1_print_p_o_s_c_a_r_base =
+[
+    [ "PrintPOSCARBase", "class_c_a_s_m_1_1_vasp_i_o_1_1vaspio__impl_1_1_print_p_o_s_c_a_r_base.html#abb866bf58313348f518742db048d123d", null ],
+    [ "PrintPOSCARBase", "class_c_a_s_m_1_1_vasp_i_o_1_1vaspio__impl_1_1_print_p_o_s_c_a_r_base.html#a2c8b014eda180159bc682cd6e1efef40", null ],
+    [ "_print", "class_c_a_s_m_1_1_vasp_i_o_1_1vaspio__impl_1_1_print_p_o_s_c_a_r_base.html#ae2a23b04d55e73baa1db2e3a5b9dccb4", null ],
+    [ "ignore", "class_c_a_s_m_1_1_vasp_i_o_1_1vaspio__impl_1_1_print_p_o_s_c_a_r_base.html#afa84c00ceff6d20a47810bbf57135f99", null ],
+    [ "ignore", "class_c_a_s_m_1_1_vasp_i_o_1_1vaspio__impl_1_1_print_p_o_s_c_a_r_base.html#a007560a1a55c8a34275768e8b94b7001", null ],
+    [ "set_append_atom_names_off", "class_c_a_s_m_1_1_vasp_i_o_1_1vaspio__impl_1_1_print_p_o_s_c_a_r_base.html#a8f9e80f0557ac9ca3fa56435b77d4319", null ],
+    [ "set_append_atom_names_on", "class_c_a_s_m_1_1_vasp_i_o_1_1vaspio__impl_1_1_print_p_o_s_c_a_r_base.html#aaeee3c40a7c20abed54d2e3ae828d1c8", null ],
+    [ "set_atom_names_off", "class_c_a_s_m_1_1_vasp_i_o_1_1vaspio__impl_1_1_print_p_o_s_c_a_r_base.html#aa74e8588f3c6051fc80451e8d1780a61", null ],
+    [ "set_atom_names_on", "class_c_a_s_m_1_1_vasp_i_o_1_1vaspio__impl_1_1_print_p_o_s_c_a_r_base.html#a78ae16e30c4f745859dbc1903b29950b", null ],
+    [ "set_cart", "class_c_a_s_m_1_1_vasp_i_o_1_1vaspio__impl_1_1_print_p_o_s_c_a_r_base.html#a1240ecf398e426e01142073ef46c1140", null ],
+    [ "set_coord_mode", "class_c_a_s_m_1_1_vasp_i_o_1_1vaspio__impl_1_1_print_p_o_s_c_a_r_base.html#a51ee50c2b51d35f3a127a525d9d983b1", null ],
+    [ "set_direct", "class_c_a_s_m_1_1_vasp_i_o_1_1vaspio__impl_1_1_print_p_o_s_c_a_r_base.html#a07079b18a5e0cecca4acd61d0b846147", null ],
+    [ "set_frac", "class_c_a_s_m_1_1_vasp_i_o_1_1vaspio__impl_1_1_print_p_o_s_c_a_r_base.html#ad30f3a6f5f9c120b61ee06d3d3ac283e", null ],
+    [ "set_scale", "class_c_a_s_m_1_1_vasp_i_o_1_1vaspio__impl_1_1_print_p_o_s_c_a_r_base.html#a8e330a65c1b1a7a3957d51ad638f23c6", null ],
+    [ "set_selective_dynamics_off", "class_c_a_s_m_1_1_vasp_i_o_1_1vaspio__impl_1_1_print_p_o_s_c_a_r_base.html#a48e93018f5a11127684f0bb7f0eb6408", null ],
+    [ "set_selective_dynamics_on", "class_c_a_s_m_1_1_vasp_i_o_1_1vaspio__impl_1_1_print_p_o_s_c_a_r_base.html#a0dcb53e1ce8c69b9253a0dedaf4aa91e", null ],
+    [ "set_title", "class_c_a_s_m_1_1_vasp_i_o_1_1vaspio__impl_1_1_print_p_o_s_c_a_r_base.html#af6c80be3b717f1c4637156e072e878dc", null ],
+    [ "m_append_atom_names", "class_c_a_s_m_1_1_vasp_i_o_1_1vaspio__impl_1_1_print_p_o_s_c_a_r_base.html#a50c55cceb3c6ed321db0ba2758443f6a", null ],
+    [ "m_atom_names", "class_c_a_s_m_1_1_vasp_i_o_1_1vaspio__impl_1_1_print_p_o_s_c_a_r_base.html#adc75186e38b15d894577d0b4b223431a", null ],
+    [ "m_coord_mode", "class_c_a_s_m_1_1_vasp_i_o_1_1vaspio__impl_1_1_print_p_o_s_c_a_r_base.html#a14de3b91cea95e43fb1a1154021242b7", null ],
+    [ "m_ignore", "class_c_a_s_m_1_1_vasp_i_o_1_1vaspio__impl_1_1_print_p_o_s_c_a_r_base.html#ac465471c5c51b8f44e2707aebcf8e255", null ],
+    [ "m_lat", "class_c_a_s_m_1_1_vasp_i_o_1_1vaspio__impl_1_1_print_p_o_s_c_a_r_base.html#a8ab7d46e1a8b49f78047939649f5980d", null ],
+    [ "m_scale", "class_c_a_s_m_1_1_vasp_i_o_1_1vaspio__impl_1_1_print_p_o_s_c_a_r_base.html#a5f9d6cbfb59b9f16688ca27fe04f4b9d", null ],
+    [ "m_sel_dynamics", "class_c_a_s_m_1_1_vasp_i_o_1_1vaspio__impl_1_1_print_p_o_s_c_a_r_base.html#a710deade62fa5aeda6037cf1ae9c98dd", null ],
+    [ "m_title", "class_c_a_s_m_1_1_vasp_i_o_1_1vaspio__impl_1_1_print_p_o_s_c_a_r_base.html#a9039b455223ab45eda3d50c983695a4d", null ]
+];

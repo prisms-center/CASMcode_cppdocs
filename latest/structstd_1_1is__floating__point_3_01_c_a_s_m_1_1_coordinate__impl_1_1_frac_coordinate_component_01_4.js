@@ -1,0 +1,4 @@
+var structstd_1_1is__floating__point_3_01_c_a_s_m_1_1_coordinate__impl_1_1_frac_coordinate_component_01_4 =
+[
+    [ "value", "structstd_1_1is__floating__point_3_01_c_a_s_m_1_1_coordinate__impl_1_1_frac_coordinate_component_01_4.html#af28de2321601c5b8c16e70a050c767a2", null ]
+];

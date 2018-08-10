@@ -1,0 +1,26 @@
+var _linear_algebra_8hh =
+[
+    [ "_elementary_hermite_op", "_linear_algebra_8hh.html#a36d32741054c10a64b5559cd3d68c31a", null ],
+    [ "_unimodular_matrices", "_linear_algebra_8hh.html#ga7f22800df75920bf21cf0057d3ad8629", null ],
+    [ "adjugate", "_linear_algebra_8hh.html#gaed9205c110b2dc4e4f170f58dd43978e", null ],
+    [ "angle", "_linear_algebra_8hh.html#ga6fccc5dcedea06e5cf6663cdea393fe8", null ],
+    [ "cofactor", "_linear_algebra_8hh.html#gae817040d7c6c4ae76fb3e4f639b644a2", null ],
+    [ "get_Hermitian", "_linear_algebra_8hh.html#ga14a90f02d8c80a8a226d2d3e32cfc98a", null ],
+    [ "hermite_normal_form", "_linear_algebra_8hh.html#ga87a51498b0baf054fa06eed0d127e68c", null ],
+    [ "inverse", "_linear_algebra_8hh.html#ga9c69eba6a2e0ffd8c887c573033265fa", null ],
+    [ "iround", "_linear_algebra_8hh.html#gac3b6e34356b1f7572c0f6a7041ac06e5", null ],
+    [ "is_diagonal", "_linear_algebra_8hh.html#ga0f64e6c78ef720f4c5802ca5b46e1742", null ],
+    [ "is_Hermitian", "_linear_algebra_8hh.html#gabd1d652737edf3b7530a4a108110b3ec", null ],
+    [ "is_integer", "_linear_algebra_8hh.html#gaff448b499ab03cbdde49e35686125bc3", null ],
+    [ "is_unimodular", "_linear_algebra_8hh.html#ga289a75871124b22358b3e579e95dac05", null ],
+    [ "lround", "_linear_algebra_8hh.html#ga5411ad963a762f4fc0675f23fd254253", null ],
+    [ "matrix_minor", "_linear_algebra_8hh.html#ga6bd53b507aa8b749f3ff9eb4a20f30eb", null ],
+    [ "negative_unimodular_matrices", "_linear_algebra_8hh.html#ga814577784f1a842fa781a9ae17d5dcd1", null ],
+    [ "poly_fit", "_linear_algebra_8hh.html#ga203e3fa9520a6d24a53729200e7f9f94", null ],
+    [ "positive_unimodular_matrices", "_linear_algebra_8hh.html#ga245017698ae4c4cef253c81491530a9b", null ],
+    [ "pretty", "_linear_algebra_8hh.html#ga1712e24d5ef8f3b419e52256025aa675", null ],
+    [ "signed_angle", "_linear_algebra_8hh.html#gab62eae8ded371a4a7bf8b83d2e416062", null ],
+    [ "smith_normal_form", "_linear_algebra_8hh.html#ga534cbab3f576ae3dc21fda63c0667e2c", null ],
+    [ "triple_prod", "_linear_algebra_8hh.html#ga33837ea2f2d583af4f92ac5306fb6e4c", null ],
+    [ "unimodular_matrices", "_linear_algebra_8hh.html#ga0f45dfe59c803ce26bdedc7a43872bfc", null ]
+];

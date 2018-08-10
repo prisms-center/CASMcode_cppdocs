@@ -1,0 +1,25 @@
+var class_c_a_s_m_1_1_niggli_rep =
+[
+    [ "NiggliRep", "class_c_a_s_m_1_1_niggli_rep.html#ae91bac77eb3482131b765b5d2f407723", null ],
+    [ "NiggliRep", "class_c_a_s_m_1_1_niggli_rep.html#a430805da71c862f303c82f098e80dcef", null ],
+    [ "A", "class_c_a_s_m_1_1_niggli_rep.html#acf91bc6bc0cdad265c9e2b079e61ea1c", null ],
+    [ "B", "class_c_a_s_m_1_1_niggli_rep.html#a14fdc8aca1d0309a462ab4fe06b3f228", null ],
+    [ "C", "class_c_a_s_m_1_1_niggli_rep.html#a3716b384bcaf7fd8e7c365bae296d430", null ],
+    [ "debug_criteria", "class_c_a_s_m_1_1_niggli_rep.html#a06db7feca660f4b770031609f2dd33c0", null ],
+    [ "eta", "class_c_a_s_m_1_1_niggli_rep.html#adf2bc19dbb540145b9b9d43c90d98609", null ],
+    [ "is_niggli", "class_c_a_s_m_1_1_niggli_rep.html#a86cf099b9accf4eb371ffe1aab5c3c3f", null ],
+    [ "is_niggli_type1", "class_c_a_s_m_1_1_niggli_rep.html#a1ab431525b688aed453a8daaee5ecb7d", null ],
+    [ "is_niggli_type2", "class_c_a_s_m_1_1_niggli_rep.html#afaccd9e94df902c73f81a8261cbfc897", null ],
+    [ "ksi", "class_c_a_s_m_1_1_niggli_rep.html#a41c21a8ccd5109f49129c3666b8534e1", null ],
+    [ "meets_criteria_1", "class_c_a_s_m_1_1_niggli_rep.html#ae5b7a4976b4b67da6c6d13305cd97684", null ],
+    [ "meets_criteria_2", "class_c_a_s_m_1_1_niggli_rep.html#a9a9c57c297c238d8fbf217e2558487e7", null ],
+    [ "meets_criteria_3", "class_c_a_s_m_1_1_niggli_rep.html#a8ff411814e89768224866d0e69b01e7d", null ],
+    [ "meets_criteria_4", "class_c_a_s_m_1_1_niggli_rep.html#abb9136990cafcbfe4e67b6a3c1f2b963", null ],
+    [ "meets_criteria_5", "class_c_a_s_m_1_1_niggli_rep.html#a91506cf9c430cbc25a0c7de844537777", null ],
+    [ "meets_criteria_6", "class_c_a_s_m_1_1_niggli_rep.html#afd3769248d8bbf5a45ff5d29d085637b", null ],
+    [ "meets_criteria_7", "class_c_a_s_m_1_1_niggli_rep.html#a5778365eef0ced8594f3559a89371552", null ],
+    [ "meets_criteria_8", "class_c_a_s_m_1_1_niggli_rep.html#ac699cb7caa0cfbd0955191e280b95e17", null ],
+    [ "metrical_matrix", "class_c_a_s_m_1_1_niggli_rep.html#a55c997bb8fa43fe772ad8e05d97d7858", null ],
+    [ "zeta", "class_c_a_s_m_1_1_niggli_rep.html#a295961ea1e2a74a61d5fbbe6b14a4907", null ],
+    [ "m_metrical_matrix", "class_c_a_s_m_1_1_niggli_rep.html#aedc0574beb7d268627037c0ff11d52e4", null ]
+];
