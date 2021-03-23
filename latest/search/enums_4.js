@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['formattertype',['FormatterType',['../group___data_formatter_types.html#gae0bc59905ac97fd1cf52ea1853453255',1,'CASM::BaseDatumFormatter']]]
+  ['hintstatus_13082',['HintStatus',['../struct_c_a_s_m_1_1_config_mapper_result.html#a9987f0f8f9d511a3c1533a0014883cb6',1,'CASM::ConfigMapperResult']]]
 ];

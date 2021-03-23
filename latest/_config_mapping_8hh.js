@@ -1,13 +1,9 @@
 var _config_mapping_8hh =
 [
-    [ "basis_cost", "_config_mapping_8hh.html#a936325c1697909962e1c2955dd21d36a", null ],
-    [ "calc_cost_matrix", "_config_mapping_8hh.html#a4b0e5df683fdcf249f4592c8db5b2745", null ],
-    [ "calc_cost_matrix", "_config_mapping_8hh.html#a1d65d974ea0d1779c0b815ebb5eed200", null ],
-    [ "find_nearest_super_lattice", "_config_mapping_8hh.html#a614917143217e7cac318466dda60ae60", null ],
-    [ "find_nearest_super_lattice", "_config_mapping_8hh.html#ac9aac2a5d3b1e642d1967e478ee3ee02", null ],
-    [ "preconditioned_struc_to_configdof", "_config_mapping_8hh.html#aafa03fd7d6bd88f44266282011665ed6", null ],
-    [ "preconditioned_struc_to_configdof", "_config_mapping_8hh.html#acf1e8e5d81e88c48311019c18826e871", null ],
-    [ "strain_cost", "_config_mapping_8hh.html#ac90db1c1c9d77e9d1e3d96d7db523462", null ],
-    [ "struc_to_configdof", "_config_mapping_8hh.html#a481585424674ee561925987c39e40ec1", null ],
-    [ "struc_to_configdof", "_config_mapping_8hh.html#a960b395a2d7af8ced2cfa9001a9fce5d", null ]
+    [ "Settings", "struct_c_a_s_m_1_1_config_mapping_1_1_settings.html", "struct_c_a_s_m_1_1_config_mapping_1_1_settings" ],
+    [ "PrimStrucMapCalculator", "class_c_a_s_m_1_1_prim_struc_map_calculator.html", "class_c_a_s_m_1_1_prim_struc_map_calculator" ],
+    [ "ConfigMapperResult", "struct_c_a_s_m_1_1_config_mapper_result.html", "struct_c_a_s_m_1_1_config_mapper_result" ],
+    [ "Individual", "struct_c_a_s_m_1_1_config_mapper_result_1_1_individual.html", "struct_c_a_s_m_1_1_config_mapper_result_1_1_individual" ],
+    [ "copy_apply", "_config_mapping_8hh.html#a5450dd9c3f3f352b650d5606955371e6", null ],
+    [ "to_configdof", "_config_mapping_8hh.html#a658a3b13b6ee692de395529d4125f756", null ]
 ];

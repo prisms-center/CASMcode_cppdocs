@@ -1,5 +1,6 @@
 var _monte_definitions_8hh =
 [
+    [ "size_type", "_monte_definitions_8hh.html#af8dcf7944e03fb4207fa62a88714fb56", null ],
     [ "DRIVE_MODE", "_monte_definitions_8hh.html#a71d4c75e19f8e88971e2f45d36b3510d", [
       [ "INCREMENTAL", "_monte_definitions_8hh.html#a71d4c75e19f8e88971e2f45d36b3510da9c098c060958933384cc3fde595a1c07", null ],
       [ "CUSTOM", "_monte_definitions_8hh.html#a71d4c75e19f8e88971e2f45d36b3510da72baef04098f035e8a320b03ad197818", null ]

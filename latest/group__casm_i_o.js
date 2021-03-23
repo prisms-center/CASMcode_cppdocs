@@ -1,6 +1,5 @@
 var group__casm_i_o =
 [
-    [ "ProjectIO", "group___project_i_o.html", "group___project_i_o" ],
     [ "DataFormatter", "group___data_formatter.html", "group___data_formatter" ],
     [ "EnumIO", "group___enum_i_o.html", "group___enum_i_o" ],
     [ "JsonParser", "group__json_parser.html", "group__json_parser" ],

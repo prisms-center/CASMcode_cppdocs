@@ -1,0 +1,28 @@
+var class_c_a_s_m_1_1xtal_1_1_niggli_rep =
+[
+    [ "NiggliRep", "class_c_a_s_m_1_1xtal_1_1_niggli_rep.html#a08626000512452131775252ff1ee7560", null ],
+    [ "NiggliRep", "class_c_a_s_m_1_1xtal_1_1_niggli_rep.html#a454bd3f8306e827d17e203ca467199d5", null ],
+    [ "A", "class_c_a_s_m_1_1xtal_1_1_niggli_rep.html#a81e7e3c6fd341bd8aec833fb4b39d421", null ],
+    [ "B", "class_c_a_s_m_1_1xtal_1_1_niggli_rep.html#ad9e3b601d64d73a53def8d414af80950", null ],
+    [ "C", "class_c_a_s_m_1_1xtal_1_1_niggli_rep.html#a665ad554116a9a7e5bfe33d052f97813", null ],
+    [ "cell_invariant_transforms", "class_c_a_s_m_1_1xtal_1_1_niggli_rep.html#a67bf5f376ec565cb9d73d8c394005f0b", null ],
+    [ "debug_criteria", "class_c_a_s_m_1_1xtal_1_1_niggli_rep.html#aaedd4dd313f8c5e82830cf2ef81493f7", null ],
+    [ "eta", "class_c_a_s_m_1_1xtal_1_1_niggli_rep.html#a2b30dcab167da77435e75526a2a3f8ae", null ],
+    [ "is_niggli", "class_c_a_s_m_1_1xtal_1_1_niggli_rep.html#a09245a4bb684263981ff9fa636f0880a", null ],
+    [ "is_niggli_type1", "class_c_a_s_m_1_1xtal_1_1_niggli_rep.html#aac02a12df2844728ad39217a8569de87", null ],
+    [ "is_niggli_type2", "class_c_a_s_m_1_1xtal_1_1_niggli_rep.html#aae35a7bd005ab65635d19d05f5be912a", null ],
+    [ "ksi", "class_c_a_s_m_1_1xtal_1_1_niggli_rep.html#a042ea0fc4e780164eef138cdf3b30ba3", null ],
+    [ "meets_criteria_1", "class_c_a_s_m_1_1xtal_1_1_niggli_rep.html#a590073d32c5469c539a58b39616ee3ec", null ],
+    [ "meets_criteria_2", "class_c_a_s_m_1_1xtal_1_1_niggli_rep.html#aaf89a7c4783162ee2a3197b41355b147", null ],
+    [ "meets_criteria_3", "class_c_a_s_m_1_1xtal_1_1_niggli_rep.html#a086f26529bbcf819196e2556efdd22d5", null ],
+    [ "meets_criteria_4", "class_c_a_s_m_1_1xtal_1_1_niggli_rep.html#a4f9d05a9dc7bb82a1d408f2469dfed49", null ],
+    [ "meets_criteria_5", "class_c_a_s_m_1_1xtal_1_1_niggli_rep.html#a27db3925dfee73c46c4854c53d3eaf66", null ],
+    [ "meets_criteria_6", "class_c_a_s_m_1_1xtal_1_1_niggli_rep.html#a50bb0d75052f3335f42843e8ed3edb94", null ],
+    [ "meets_criteria_7", "class_c_a_s_m_1_1xtal_1_1_niggli_rep.html#a122cd29c4157e042d5b2c5cd07e4a932", null ],
+    [ "meets_criteria_8", "class_c_a_s_m_1_1xtal_1_1_niggli_rep.html#a5d548f5d7cd6c69b1344f380f1938c32", null ],
+    [ "metrical_matrix", "class_c_a_s_m_1_1xtal_1_1_niggli_rep.html#a07e044b64e34b927f2159d27de8378e5", null ],
+    [ "niggli_index", "class_c_a_s_m_1_1xtal_1_1_niggli_rep.html#a30e2fdaecdee6d61f3f5df0186a0e3bb", null ],
+    [ "zeta", "class_c_a_s_m_1_1xtal_1_1_niggli_rep.html#a0164adb821804a79f51cf145c6509c9a", null ],
+    [ "m_metrical_matrix", "class_c_a_s_m_1_1xtal_1_1_niggli_rep.html#acabdaa14072169713c7e2e19fdee98ea", null ],
+    [ "m_scale_factor", "class_c_a_s_m_1_1xtal_1_1_niggli_rep.html#ad5e615b9203637299c557c28f34e693e", null ]
+];

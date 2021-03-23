@@ -1,18 +1,19 @@
 var class_c_a_s_m_1_1_config_is_equivalent =
 [
-    [ "eq_container", "class_c_a_s_m_1_1_config_is_equivalent.html#a4f413d6a1207e40a30a3ece3c1976f6c", null ],
-    [ "ConfigIsEquivalent", "class_c_a_s_m_1_1_config_is_equivalent.html#ac591a7a533e8fca2218acb92bd1f34b4", null ],
-    [ "config", "class_c_a_s_m_1_1_config_is_equivalent.html#afe621ac236708f686117985fe2256261", null ],
-    [ "global_eq", "class_c_a_s_m_1_1_config_is_equivalent.html#af8f073ab761d0663c314cafef02a9398", null ],
-    [ "global_eq", "class_c_a_s_m_1_1_config_is_equivalent.html#afe1bd11f0dbaa29a8d66273ebef73c96", null ],
-    [ "is_less", "class_c_a_s_m_1_1_config_is_equivalent.html#a8ea7a6ade9bd3e40795b2faebad1a0e0", null ],
-    [ "operator()", "class_c_a_s_m_1_1_config_is_equivalent.html#ac328942622324521a3473d68ed2cbb31", null ],
-    [ "operator()", "class_c_a_s_m_1_1_config_is_equivalent.html#acc88fb7a99dc6e5a74d8c0f78b995282", null ],
-    [ "operator()", "class_c_a_s_m_1_1_config_is_equivalent.html#a46f84d0f658e2e4dafa9be58c865190b", null ],
-    [ "site_eq", "class_c_a_s_m_1_1_config_is_equivalent.html#a4d113ee2133efe07a0c703818d5b8efc", null ],
-    [ "site_eq", "class_c_a_s_m_1_1_config_is_equivalent.html#a847c1fd50dc74cf33717f5608f8afbff", null ],
+    [ "EquivPtr", "class_c_a_s_m_1_1_config_is_equivalent.html#a58cf8700138e538d52822c6b6bf4afe7", null ],
+    [ "ConfigIsEquivalent", "class_c_a_s_m_1_1_config_is_equivalent.html#af92fefbeaeed608eff1fd377b6360a10", null ],
+    [ "ConfigIsEquivalent", "class_c_a_s_m_1_1_config_is_equivalent.html#a7faad48fa42b86fcebf8c678a53bce59", null ],
+    [ "config", "class_c_a_s_m_1_1_config_is_equivalent.html#ac0108dfbe7dd673d1b6e267e1af0b19c", null ],
+    [ "global_equivs", "class_c_a_s_m_1_1_config_is_equivalent.html#aa11b04d3a9f34fa79c62c62884344701", null ],
+    [ "is_less", "class_c_a_s_m_1_1_config_is_equivalent.html#a250d81851401a19450c2f5589fda1e9d", null ],
+    [ "local_equivs", "class_c_a_s_m_1_1_config_is_equivalent.html#aa5529b7bed767b4e47a4b3b978e309a2", null ],
+    [ "operator()", "class_c_a_s_m_1_1_config_is_equivalent.html#ac7a01210302eb03abaac7c40476f9aae", null ],
+    [ "operator()", "class_c_a_s_m_1_1_config_is_equivalent.html#a10c543ae3d419e92527ebb0eac4c9f27", null ],
+    [ "operator()", "class_c_a_s_m_1_1_config_is_equivalent.html#a7c2f97458032e3a25b876980a3ec8a57", null ],
+    [ "operator()", "class_c_a_s_m_1_1_config_is_equivalent.html#a7b2a2aeede36eb4f5a46e4cad5f94a8e", null ],
+    [ "operator()", "class_c_a_s_m_1_1_config_is_equivalent.html#a8aa60017059c02a064a77abe8343d66d", null ],
     [ "m_config", "class_c_a_s_m_1_1_config_is_equivalent.html#a5aa2ebb8d311c5994c2a5613ba6ee059", null ],
-    [ "m_global_eq", "class_c_a_s_m_1_1_config_is_equivalent.html#a4136d7fd93f163253e893008becd6919", null ],
+    [ "m_global_equivs", "class_c_a_s_m_1_1_config_is_equivalent.html#aee28b3f062cbc4e138bcc989418be5c0", null ],
     [ "m_less", "class_c_a_s_m_1_1_config_is_equivalent.html#ae2e8a1beb302f9817f89e217a94836da", null ],
-    [ "m_site_eq", "class_c_a_s_m_1_1_config_is_equivalent.html#a4cd54416a4c4055dc965c2b5a6c49d6b", null ]
+    [ "m_local_equivs", "class_c_a_s_m_1_1_config_is_equivalent.html#a1fc633d02cbfd9c7e7b933427a0aa038", null ]
 ];

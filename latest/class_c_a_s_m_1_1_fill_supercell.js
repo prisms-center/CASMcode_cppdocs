@@ -1,13 +1,15 @@
 var class_c_a_s_m_1_1_fill_supercell =
 [
-    [ "FillSupercell", "class_c_a_s_m_1_1_fill_supercell.html#ab48b86fbea9a45180db1929c817dab1a", null ],
-    [ "FillSupercell", "class_c_a_s_m_1_1_fill_supercell.html#a27908308e565b0d58b74e6b50d92767e", null ],
-    [ "_init", "class_c_a_s_m_1_1_fill_supercell.html#a752cc8233f64eff2cd6c306cb78d94ca", null ],
-    [ "find_symop", "class_c_a_s_m_1_1_fill_supercell.html#a9e4de020c50ef32a77ccdb6861315d1d", null ],
-    [ "operator()", "class_c_a_s_m_1_1_fill_supercell.html#aab4d605a348f395c579eedec501735ef", null ],
-    [ "symop", "class_c_a_s_m_1_1_fill_supercell.html#a4d0f7642ac0fc3f5dbe6c87818c3f86b", null ],
+    [ "FillSupercell", "class_c_a_s_m_1_1_fill_supercell.html#a67fb1e0d18340244e36c2b0c127e74c2", null ],
+    [ "FillSupercell", "class_c_a_s_m_1_1_fill_supercell.html#a6ac2edc4e0371ce567b2f6c3b6c782e3", null ],
+    [ "_init", "class_c_a_s_m_1_1_fill_supercell.html#aabf76c3141feb21100408c3185966faf", null ],
+    [ "find_symop", "class_c_a_s_m_1_1_fill_supercell.html#ac6efc76b0a8b398817f490939bc6d995", null ],
+    [ "operator()", "class_c_a_s_m_1_1_fill_supercell.html#ac2181067d6425db329047f3b67370eae", null ],
+    [ "operator()", "class_c_a_s_m_1_1_fill_supercell.html#a2a3f410c7445dd6490374ce7f5c75ad5", null ],
+    [ "symop", "class_c_a_s_m_1_1_fill_supercell.html#a45ec87e2bbceea4dc6b3f6ed85f559df", null ],
     [ "m_index_table", "class_c_a_s_m_1_1_fill_supercell.html#ae0d85c63fa3b7a544a3f818a424f65b7", null ],
-    [ "m_motif_scel", "class_c_a_s_m_1_1_fill_supercell.html#a45446edcf6f89783bb84c4874a0e5d27", null ],
-    [ "m_op", "class_c_a_s_m_1_1_fill_supercell.html#ac42b8dcd9dda8a0023ec470e7c1d98c2", null ],
-    [ "m_scel", "class_c_a_s_m_1_1_fill_supercell.html#a57d894ef7b79355ed9eccdeb05206f13", null ]
+    [ "m_motif_supercell", "class_c_a_s_m_1_1_fill_supercell.html#a34491bd51d56860dbb7d568d221a8fba", null ],
+    [ "m_shared_supercell", "class_c_a_s_m_1_1_fill_supercell.html#aff9a399864fb99999748326595e49563", null ],
+    [ "m_supercell_ptr", "class_c_a_s_m_1_1_fill_supercell.html#ae73fc185f9771b0dad5d3fc155f78736", null ],
+    [ "m_symop_ptr", "class_c_a_s_m_1_1_fill_supercell.html#a76a75117576aa04f6f14a9153120a598", null ]
 ];

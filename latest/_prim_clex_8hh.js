@@ -1,6 +1,5 @@
 var _prim_clex_8hh =
 [
-    [ "ConfigIterator", "singleton_c_a_s_m_1_1_config_iterator.html", "singleton_c_a_s_m_1_1_config_iterator" ],
-    [ "make_orbitree", "_prim_clex_8hh.html#ga0ac4a322b0bd2fd8f377abd6a57520ea", null ],
-    [ "print_clexulator", "_prim_clex_8hh.html#ga3121e8f16caaed5b8f582a05f587a29a", null ]
+    [ "make_clexulator", "_prim_clex_8hh.html#ga98b0bc194f812cb4ece418cf11191f36", null ],
+    [ "write_basis_set_data", "_prim_clex_8hh.html#ga69e3867931b2a78fde70b6b1e3329e92", null ]
 ];

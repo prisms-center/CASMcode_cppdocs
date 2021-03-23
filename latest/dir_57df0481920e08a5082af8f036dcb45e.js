@@ -1,14 +1,46 @@
 var dir_57df0481920e08a5082af8f036dcb45e =
 [
+    [ "io", "dir_8650b2c3de488a1a5ec0d4c7bb34e673.html", "dir_8650b2c3de488a1a5ec0d4c7bb34e673" ],
     [ "EnumEquivalents.hh", "_enum_equivalents_8hh.html", null ],
+    [ "InvariantSubgroup.hh", "_invariant_subgroup_8hh.html", "_invariant_subgroup_8hh" ],
+    [ "InvariantSubgroup_impl.hh", "_invariant_subgroup__impl_8hh.html", "_invariant_subgroup__impl_8hh" ],
+    [ "IrrepDecomposition.hh", "_irrep_decomposition_8hh.html", "_irrep_decomposition_8hh" ],
+    [ "IrrepDecompositionImpl.hh", "_irrep_decomposition_impl_8hh.html", "_irrep_decomposition_impl_8hh" ],
+    [ "IrrepWedge.hh", "_irrep_wedge_8hh.html", "_irrep_wedge_8hh" ],
+    [ "json_io.hh", "symmetry_2json__io_8hh.html", null ],
+    [ "Orbit.hh", "_orbit_8hh.html", "_orbit_8hh" ],
+    [ "Orbit_impl.hh", "_orbit__impl_8hh.html", "_orbit__impl_8hh" ],
+    [ "OrbitDecl.hh", "_orbit_decl_8hh.html", null ],
+    [ "OrbitGeneration.hh", "_orbit_generation_8hh.html", "_orbit_generation_8hh" ],
+    [ "OrbitGeneration_impl.hh", "_orbit_generation__impl_8hh.html", "_orbit_generation__impl_8hh" ],
     [ "PermuteIterator.hh", "_permute_iterator_8hh.html", "_permute_iterator_8hh" ],
-    [ "SymBasisPermute.hh", "_sym_basis_permute_8hh.html", "_sym_basis_permute_8hh" ],
+    [ "SimpleOrbit.hh", "_simple_orbit_8hh.html", null ],
+    [ "SimpleOrbit_impl.hh", "_simple_orbit__impl_8hh.html", null ],
+    [ "SubOrbits.hh", "_sub_orbits_8hh.html", "_sub_orbits_8hh" ],
+    [ "SubOrbits_impl.hh", "_sub_orbits__impl_8hh.html", "_sub_orbits__impl_8hh" ],
+    [ "SupercellSymInfo.hh", "_supercell_sym_info_8hh.html", "_supercell_sym_info_8hh" ],
+    [ "SymBasisPermute.hh", "_sym_basis_permute_8hh.html", null ],
+    [ "SymCompare.hh", "_sym_compare_8hh.html", [
+      [ "SymCompare", "class_c_a_s_m_1_1_sym_compare.html", "class_c_a_s_m_1_1_sym_compare" ]
+    ] ],
     [ "SymGroup.hh", "_sym_group_8hh.html", "_sym_group_8hh" ],
     [ "SymGroupRep.hh", "_sym_group_rep_8hh.html", "_sym_group_rep_8hh" ],
     [ "SymGroupRepID.hh", "_sym_group_rep_i_d_8hh.html", "_sym_group_rep_i_d_8hh" ],
     [ "SymInfo.hh", "_sym_info_8hh.html", "_sym_info_8hh" ],
-    [ "SymMatrixXd.hh", "_sym_matrix_xd_8hh.html", "_sym_matrix_xd_8hh" ],
+    [ "SymMatrixXd.hh", "_sym_matrix_xd_8hh.html", null ],
+    [ "Symmetrizer.hh", "_symmetrizer_8hh.html", "_symmetrizer_8hh" ],
     [ "SymOp.hh", "_sym_op_8hh.html", "_sym_op_8hh" ],
-    [ "SymOpRepresentation.hh", "_sym_op_representation_8hh.html", "_sym_op_representation_8hh" ],
-    [ "SymPermutation.hh", "_sym_permutation_8hh.html", "_sym_permutation_8hh" ]
+    [ "SymOpRepresentation.hh", "_sym_op_representation_8hh.html", [
+      [ "SymRepIndexCompare", "struct_c_a_s_m_1_1_sym_rep_index_compare.html", "struct_c_a_s_m_1_1_sym_rep_index_compare" ]
+    ] ],
+    [ "SymPermutation.hh", "_sym_permutation_8hh.html", null ],
+    [ "SymRepTools.hh", "_sym_rep_tools_8hh.html", "_sym_rep_tools_8hh" ],
+    [ "SymTools.hh", "symmetry_2_sym_tools_8hh.html", "symmetry_2_sym_tools_8hh" ],
+    [ "SymTools_impl.hh", "_sym_tools__impl_8hh.html", "_sym_tools__impl_8hh" ],
+    [ "to_real.hh", "to__real_8hh.html", "to__real_8hh" ],
+    [ "VectorOrbits.hh", "_vector_orbits_8hh.html", "_vector_orbits_8hh" ],
+    [ "VectorSpaceSymReport.hh", "_vector_space_sym_report_8hh.html", "_vector_space_sym_report_8hh" ],
+    [ "VectorSymCompare.hh", "_vector_sym_compare_8hh.html", "_vector_sym_compare_8hh" ],
+    [ "VectorSymCompare_impl.hh", "_vector_sym_compare__impl_8hh.html", "_vector_sym_compare__impl_8hh" ],
+    [ "VectorSymCompare_v2.hh", "_vector_sym_compare__v2_8hh.html", "_vector_sym_compare__v2_8hh" ]
 ];

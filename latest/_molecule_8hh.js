@@ -1,17 +1,13 @@
 var _molecule_8hh =
 [
-    [ "MoleculeOccupant", "_molecule_8hh.html#ga173ee53f50496f933787ccc3407ba5ce", null ],
-    [ "from_json", "_molecule_8hh.html#ga5f53dd8443d66d73bff03f55d20b5701", null ],
-    [ "from_json", "_molecule_8hh.html#gaf2afc7dbc1e8a8b96b805d2475796a86", null ],
-    [ "from_json", "_molecule_8hh.html#gaf44a9098e8e9c2a1c917c4f91c9e9dec", null ],
-    [ "is_molecule_name", "_molecule_8hh.html#ga2cf2885b38f5382640ec45e8085cb752", null ],
-    [ "is_vacancy", "_molecule_8hh.html#ga03c9c6a50f130af519a82c1dc3c0bafa", null ],
-    [ "make_atom", "_molecule_8hh.html#ga41898a2375f9d3533b867467e0f0d25f", null ],
-    [ "make_vacancy", "_molecule_8hh.html#gae968ea39bf1cb52811d26a7f15878aa3", null ],
-    [ "operator*", "_molecule_8hh.html#ga4db6931043ead28cfa23a26cb3c20921", null ],
-    [ "operator+", "_molecule_8hh.html#ga3f341ee3f4983d9bf35ca93cc6376b7d", null ],
-    [ "operator+", "_molecule_8hh.html#gaf5b59925bf44066f3cd24e2f887ab4f8", null ],
-    [ "to_json", "_molecule_8hh.html#ga9bd38558a607338dcd7afc1cf99161e3", null ],
-    [ "to_json", "_molecule_8hh.html#gad1ab084e4b29443167bb6e83e04c67d9", null ],
-    [ "to_json", "_molecule_8hh.html#gacef0ca6a4ed6fe4de62ca6a2e8adf6bb", null ]
+    [ "apply", "_molecule_8hh.html#ga6347e311c6ae7b2cd4a84e96e1580917", null ],
+    [ "apply", "_molecule_8hh.html#ga80011d0324c7f7bcdb57a97ff9e95eef", null ],
+    [ "compare_type", "_molecule_8hh.html#ga34179f5dc76b15423a482b8ce4932ccb", null ],
+    [ "copy_apply", "_molecule_8hh.html#gae3bad6810bfd4a4392e979cd48dddc22", null ],
+    [ "copy_apply", "_molecule_8hh.html#gaaad7860134b892ef6abcd7969a1a1c4b", null ],
+    [ "copy_apply", "_molecule_8hh.html#gab2446a7a463bd476cd3c3a453dd46606", null ],
+    [ "copy_apply", "_molecule_8hh.html#ga38b0772da740c591984dfc174ea4d0f7", null ],
+    [ "is_molecule_name", "_molecule_8hh.html#ga63414061eca261f34a560e1b4503160b", null ],
+    [ "is_vacancy", "_molecule_8hh.html#ga772a293ce8f96c39b5ea10d0d5f3adf8", null ],
+    [ "operator==", "_molecule_8hh.html#gad1b7d0d99fbe8a0226d953a177cf237e", null ]
 ];

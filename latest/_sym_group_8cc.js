@@ -1,10 +1,11 @@
 var _sym_group_8cc =
 [
+    [ "_acentric_point_group_info", "_sym_group_8cc.html#ac504d65cab3e49b38c986baecac06bba", null ],
+    [ "_centric_point_group_info", "_sym_group_8cc.html#a98eedadea1912be99fa297b1103ab5c6", null ],
+    [ "_nonmagnetic_point_group_info", "_sym_group_8cc.html#addbc258d85f7f984988ed5eef13aa415", null ],
+    [ "_number_of_operation_types", "_sym_group_8cc.html#a2fde14eb7c3abef305bef560f72735b2", null ],
     [ "compare_periodic", "_sym_group_8cc.html#ga557d37735f70d866b24aee10b495766a", null ],
-    [ "from_json", "_sym_group_8cc.html#ga8e5da5bd4cc68f9567afda223188926c", null ],
-    [ "from_json", "_sym_group_8cc.html#a8eca98ae3ba2af5b8472947d54e2e855", null ],
-    [ "molecular_point_group", "_sym_group_8cc.html#ga01307fb05a7feb18057e95b715eef0f3", null ],
-    [ "to_json", "_sym_group_8cc.html#gafe5e2d987cd68911e7fef3e231ebd0fd", null ],
-    [ "to_json", "_sym_group_8cc.html#a213a637d8cb852f4dfb64975eb0e972f", null ],
+    [ "make_master_sym_group", "_sym_group_8cc.html#ga5d58610d322ca983369134868721ccd1", null ],
+    [ "point_group_info", "_sym_group_8cc.html#ga9f5ebabe2daf5ed5f3ecf7c5dd0ff513", null ],
     [ "within_cell", "_sym_group_8cc.html#ga8120fb82ceb93205f2d716d35038e7c4", null ]
 ];

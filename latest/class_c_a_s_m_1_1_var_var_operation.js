@@ -1,12 +1,12 @@
 var class_c_a_s_m_1_1_var_var_operation =
 [
-    [ "add", "class_c_a_s_m_1_1_var_var_operation.html#ac8f71ae48e97f836c8baaf76bfc3833e", null ],
-    [ "add_to", "class_c_a_s_m_1_1_var_var_operation.html#a558168ae713afee66d4fc4ea950693e4", null ],
-    [ "compare", "class_c_a_s_m_1_1_var_var_operation.html#a4a6176ad81a5f656bcefebfceb6f58a8", null ],
-    [ "multiply", "class_c_a_s_m_1_1_var_var_operation.html#acd2eab8f92711e912f372d0a34889e70", null ],
-    [ "multiply_by", "class_c_a_s_m_1_1_var_var_operation.html#ae1074d7fc983631ab363b9b012b36421", null ],
-    [ "poly_quotient", "class_c_a_s_m_1_1_var_var_operation.html#a897cb263929f25eeaa29c7a199c35098", null ],
-    [ "poly_remainder", "class_c_a_s_m_1_1_var_var_operation.html#a9d97a69e66b8b93c624f24af55782f9a", null ],
-    [ "subtract", "class_c_a_s_m_1_1_var_var_operation.html#aafc8e16291403a9f06535188e68a09b3", null ],
-    [ "subtract_from", "class_c_a_s_m_1_1_var_var_operation.html#ab5e258db060d89996b3d754fd4616ab7", null ]
+    [ "add", "class_c_a_s_m_1_1_var_var_operation.html#a0e46a57297925429acd497a03ed3b4cc", null ],
+    [ "add_to", "class_c_a_s_m_1_1_var_var_operation.html#a4df1d9ce5de82d74685e54e25afe5d4f", null ],
+    [ "compare", "class_c_a_s_m_1_1_var_var_operation.html#a30731ab0c67d68b21c28e7bb8a9885cb", null ],
+    [ "multiply", "class_c_a_s_m_1_1_var_var_operation.html#a5cbc3c457d27afce08c3b76358a1970f", null ],
+    [ "multiply_by", "class_c_a_s_m_1_1_var_var_operation.html#ab8cb6f4ae0bf47e3d71bc47f9d2bf5e7", null ],
+    [ "poly_quotient", "class_c_a_s_m_1_1_var_var_operation.html#a242a9282d41cb70ffe0027c153e84cfb", null ],
+    [ "poly_remainder", "class_c_a_s_m_1_1_var_var_operation.html#a3ed452d1a9a5de863091236403dd0c94", null ],
+    [ "subtract", "class_c_a_s_m_1_1_var_var_operation.html#ae60ee03de499c67ce89f0ced70627994", null ],
+    [ "subtract_from", "class_c_a_s_m_1_1_var_var_operation.html#ae486630c970e8fe83e9ae4708732066c", null ]
 ];

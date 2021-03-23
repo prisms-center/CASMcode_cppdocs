@@ -1,0 +1,28 @@
+var _shared_prim__data__io_8cc =
+[
+    [ "MatrixXdSharedPrimFormatter", "_shared_prim__data__io_8cc.html#a3405a2884f2646cacf832057a5101a93", null ],
+    [ "MatrixXiSharedPrimFormatter", "_shared_prim__data__io_8cc.html#a7a3051423c533a49df576e6602421724", null ],
+    [ "SharedPrim", "_shared_prim__data__io_8cc.html#a7bdd26d351c529cedeb289424353ab99", null ],
+    [ "SharedPrimFormatter", "_shared_prim__data__io_8cc.html#a8a2b350ed943a3859585b20f67026888", null ],
+    [ "VectorXdSharedPrimFormatter", "_shared_prim__data__io_8cc.html#aba0ac22a7d3541709f22461a18587b26", null ],
+    [ "VectorXiSharedPrimFormatter", "_shared_prim__data__io_8cc.html#a8acd030a0095ca268dffb43b237727f9", null ],
+    [ "asymmetric_unit", "_shared_prim__data__io_8cc.html#a61564aba47cfa95bb80a1e49daa4733a", null ],
+    [ "basis_rep", "_shared_prim__data__io_8cc.html#af00daa5aba3689fa65ced0a88550eb32", null ],
+    [ "crystal_point_group", "_shared_prim__data__io_8cc.html#aef64231923ebc8276502d6f2267bef0c", null ],
+    [ "crystal_point_group_name", "_shared_prim__data__io_8cc.html#a782049e8bed7c546874ee7a960343a18", null ],
+    [ "crystal_point_group_size", "_shared_prim__data__io_8cc.html#a274ac43712766f1ef46e556d139c6028", null ],
+    [ "factor_group", "_shared_prim__data__io_8cc.html#a3b6e81830e1b964a163d4f95b3b85ced", null ],
+    [ "factor_group_name", "_shared_prim__data__io_8cc.html#ad778839e223a3496a11acbd2b62739b2", null ],
+    [ "factor_group_size", "_shared_prim__data__io_8cc.html#a31cd94e414183cd9cf3ddc92aa30bbae", null ],
+    [ "is_primitive", "_shared_prim__data__io_8cc.html#ae63088660e6dfc08a2e1089cb896a00a", null ],
+    [ "lattice", "_shared_prim__data__io_8cc.html#a09377beafe114f9572b3c62b8a406898", null ],
+    [ "lattice_column_matrix", "_shared_prim__data__io_8cc.html#a5df6d4cafb787507616a1018843120f2", null ],
+    [ "lattice_params", "_shared_prim__data__io_8cc.html#a94ee48342dcbcf8f08ae2e8f67f98ff5", null ],
+    [ "lattice_point_group", "_shared_prim__data__io_8cc.html#ab1f9211f9259a723a7281a3a18eccb66", null ],
+    [ "lattice_point_group_name", "_shared_prim__data__io_8cc.html#a1214571da905efc6a3ab5234b0f2bed8", null ],
+    [ "lattice_point_group_size", "_shared_prim__data__io_8cc.html#a8120165721e90f30b44b403d3f2b632b", null ],
+    [ "make_attribute_dictionary< std::shared_ptr< const Structure > >", "_shared_prim__data__io_8cc.html#ad2c401097b187381e79bc3dcfb730949", null ],
+    [ "occ_permutation_rep", "_shared_prim__data__io_8cc.html#a3bf9566e969cd2e06e365a0d1d421da8", null ],
+    [ "primitive", "_shared_prim__data__io_8cc.html#a778b499afa1c2a966395fec52e0324ac", null ],
+    [ "volume", "_shared_prim__data__io_8cc.html#aaee35eaa5ec7c513525a76333942dd8d", null ]
+];

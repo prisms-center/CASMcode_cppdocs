@@ -10,8 +10,5 @@ var _sym_info_8hh =
       [ "inversion_op", "_sym_info_8hh.html#ggad40aaaabe1693acb271c3a50c5a45c5aa178d7679f468e3a2f5fd5de6510cb1db", null ],
       [ "rotoinversion_op", "_sym_info_8hh.html#ggad40aaaabe1693acb271c3a50c5a45c5aad8f6ebdbe5f6702ba94c5226a416f0bf", null ],
       [ "invalid_op", "_sym_info_8hh.html#ggad40aaaabe1693acb271c3a50c5a45c5aab6baaab7406754745a56b8c9cababf03", null ]
-    ] ],
-    [ "add_sym_info", "_sym_info_8hh.html#ga0de4c9777d782f4cd3ae8d20149297c9", null ],
-    [ "description", "_sym_info_8hh.html#ga356689f3d48b28d974fd26aec83c2185", null ],
-    [ "to_string", "_sym_info_8hh.html#ga5b0695a479fba805f3c07bfffc8912d6", null ]
+    ] ]
 ];

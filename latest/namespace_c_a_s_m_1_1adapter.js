@@ -1,0 +1,17 @@
+var namespace_c_a_s_m_1_1adapter =
+[
+    [ "Adapter", "struct_c_a_s_m_1_1adapter_1_1_adapter.html", null ],
+    [ "Adapter< Configuration, ConfigEnumData< EnumeratorType, InitialStateType > >", "struct_c_a_s_m_1_1adapter_1_1_adapter_3_01_configuration_00_01_config_enum_data_3_01_enumerator_2ac71fb583d57fdc084af6ff4f7f4436.html", "struct_c_a_s_m_1_1adapter_1_1_adapter_3_01_configuration_00_01_config_enum_data_3_01_enumerator_2ac71fb583d57fdc084af6ff4f7f4436" ],
+    [ "Adapter< Supercell, ConfigEnumData< EnumeratorType, InitialStateType > >", "struct_c_a_s_m_1_1adapter_1_1_adapter_3_01_supercell_00_01_config_enum_data_3_01_enumerator_type9c74930c110508e7d3bad45843062994.html", "struct_c_a_s_m_1_1adapter_1_1_adapter_3_01_supercell_00_01_config_enum_data_3_01_enumerator_type9c74930c110508e7d3bad45843062994" ],
+    [ "Adapter< DataObject, QueryData< DataObject > >", "struct_c_a_s_m_1_1adapter_1_1_adapter_3_01_data_object_00_01_query_data_3_01_data_object_01_4_01_4.html", "struct_c_a_s_m_1_1adapter_1_1_adapter_3_01_data_object_00_01_query_data_3_01_data_object_01_4_01_4" ],
+    [ "Adapter< OccupantDoF< DiscreteType >, std::vector< DiscreteType > >", "struct_c_a_s_m_1_1adapter_1_1_adapter_3_01_occupant_do_f_3_01_discrete_type_01_4_00_01std_1_1vecb07243c2afb25639d34bc30c408af644.html", "struct_c_a_s_m_1_1adapter_1_1_adapter_3_01_occupant_do_f_3_01_discrete_type_01_4_00_01std_1_1vecb07243c2afb25639d34bc30c408af644" ],
+    [ "Adapter< CASM::DoFSet, xtal::DoFSet >", "struct_c_a_s_m_1_1adapter_1_1_adapter_3_01_c_a_s_m_1_1_do_f_set_00_01xtal_1_1_do_f_set_01_4.html", "struct_c_a_s_m_1_1adapter_1_1_adapter_3_01_c_a_s_m_1_1_do_f_set_00_01xtal_1_1_do_f_set_01_4" ],
+    [ "Adapter< CASM::DoFSet, xtal::SiteDoFSet >", "struct_c_a_s_m_1_1adapter_1_1_adapter_3_01_c_a_s_m_1_1_do_f_set_00_01xtal_1_1_site_do_f_set_01_4.html", "struct_c_a_s_m_1_1adapter_1_1_adapter_3_01_c_a_s_m_1_1_do_f_set_00_01xtal_1_1_site_do_f_set_01_4" ],
+    [ "Adapter< xtal::SymOp, FromType >", "struct_c_a_s_m_1_1adapter_1_1_adapter_3_01xtal_1_1_sym_op_00_01_from_type_01_4.html", "struct_c_a_s_m_1_1adapter_1_1_adapter_3_01xtal_1_1_sym_op_00_01_from_type_01_4" ],
+    [ "Adapter< xtal::SymOpVector, FromType >", "struct_c_a_s_m_1_1adapter_1_1_adapter_3_01xtal_1_1_sym_op_vector_00_01_from_type_01_4.html", "struct_c_a_s_m_1_1adapter_1_1_adapter_3_01xtal_1_1_sym_op_vector_00_01_from_type_01_4" ],
+    [ "Adapter< SymOp, PermuteIterator >", "struct_c_a_s_m_1_1adapter_1_1_adapter_3_01_sym_op_00_01_permute_iterator_01_4.html", "struct_c_a_s_m_1_1adapter_1_1_adapter_3_01_sym_op_00_01_permute_iterator_01_4" ],
+    [ "Adapter< SymGroup, FromType >", "struct_c_a_s_m_1_1adapter_1_1_adapter_3_01_sym_group_00_01_from_type_01_4.html", "struct_c_a_s_m_1_1adapter_1_1_adapter_3_01_sym_group_00_01_from_type_01_4" ],
+    [ "Adapter< SymOp, FromType >", "struct_c_a_s_m_1_1adapter_1_1_adapter_3_01_sym_op_00_01_from_type_01_4.html", "struct_c_a_s_m_1_1adapter_1_1_adapter_3_01_sym_op_00_01_from_type_01_4" ],
+    [ "Adapter< SymOp, SymOp >", "struct_c_a_s_m_1_1adapter_1_1_adapter_3_01_sym_op_00_01_sym_op_01_4.html", "struct_c_a_s_m_1_1adapter_1_1_adapter_3_01_sym_op_00_01_sym_op_01_4" ],
+    [ "Adapter< SupercellSymInfo, SupercellInfoData >", "struct_c_a_s_m_1_1adapter_1_1_adapter_3_01_supercell_sym_info_00_01_supercell_info_data_01_4.html", "struct_c_a_s_m_1_1adapter_1_1_adapter_3_01_supercell_sym_info_00_01_supercell_info_data_01_4" ]
+];

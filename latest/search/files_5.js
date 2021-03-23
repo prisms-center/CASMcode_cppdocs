@@ -1,13 +1,22 @@
 var searchData=
 [
-  ['fcc_5fternary_5fclexulator_2ecc',['FCC_ternary_Clexulator.cc',['../_f_c_c__ternary___clexulator_8cc.html',1,'']]],
-  ['fccternaryproj_2ehh',['FCCTernaryProj.hh',['../_f_c_c_ternary_proj_8hh.html',1,'']]],
-  ['fileenumerator_2ehh',['FileEnumerator.hh',['../_file_enumerator_8hh.html',1,'']]],
-  ['files_2ecc',['files.cc',['../files_8cc.html',1,'']]],
-  ['filteredconfigiterator_2ehh',['FilteredConfigIterator.hh',['../_filtered_config_iterator_8hh.html',1,'']]],
-  ['format_2ecc',['format.cc',['../format_8cc.html',1,'']]],
-  ['formatflag_2ecc',['FormatFlag.cc',['../_format_flag_8cc.html',1,'']]],
-  ['formatflag_2ehh',['FormatFlag.hh',['../_format_flag_8hh.html',1,'']]],
-  ['functionvisitor_2ecc',['FunctionVisitor.cc',['../_function_visitor_8cc.html',1,'']]],
-  ['functionvisitor_2ehh',['FunctionVisitor.hh',['../_function_visitor_8hh.html',1,'']]]
+  ['filedata_2ecc_7548',['FileData.cc',['../_file_data_8cc.html',1,'']]],
+  ['filedata_2ehh_7549',['FileData.hh',['../_file_data_8hh.html',1,'']]],
+  ['fileenumerator_2ehh_7550',['FileEnumerator.hh',['../_file_enumerator_8hh.html',1,'']]],
+  ['files_2ecc_7551',['files.cc',['../files_8cc.html',1,'']]],
+  ['files_2ehh_7552',['files.hh',['../files_8hh.html',1,'']]],
+  ['fillsupercell_2ecc_7553',['FillSupercell.cc',['../_fill_supercell_8cc.html',1,'']]],
+  ['fillsupercell_2ehh_7554',['FillSupercell.hh',['../_fill_supercell_8hh.html',1,'']]],
+  ['fillsupercell_5fimpl_2ehh_7555',['FillSupercell_impl.hh',['../_fill_supercell__impl_8hh.html',1,'']]],
+  ['filteredconfigiterator_2ehh_7556',['FilteredConfigIterator.hh',['../_filtered_config_iterator_8hh.html',1,'']]],
+  ['filteriterator_2ehh_7557',['FilterIterator.hh',['../_filter_iterator_8hh.html',1,'']]],
+  ['format_2ecc_7558',['format.cc',['../format_8cc.html',1,'']]],
+  ['format_2ehh_7559',['format.hh',['../format_8hh.html',1,'']]],
+  ['formatflag_2ecc_7560',['FormatFlag.cc',['../_format_flag_8cc.html',1,'']]],
+  ['formatflag_2ehh_7561',['FormatFlag.hh',['../_format_flag_8hh.html',1,'']]],
+  ['formatteddatafile_2ecc_7562',['FormattedDataFile.cc',['../_formatted_data_file_8cc.html',1,'']]],
+  ['formatteddatafile_2ehh_7563',['FormattedDataFile.hh',['../_formatted_data_file_8hh.html',1,'']]],
+  ['formatteddatafile_5fimpl_2ehh_7564',['FormattedDataFile_impl.hh',['../_formatted_data_file__impl_8hh.html',1,'']]],
+  ['functionvisitor_2ecc_7565',['FunctionVisitor.cc',['../_function_visitor_8cc.html',1,'']]],
+  ['functionvisitor_2ehh_7566',['FunctionVisitor.hh',['../_function_visitor_8hh.html',1,'']]]
 ];

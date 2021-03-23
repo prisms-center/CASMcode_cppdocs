@@ -1,0 +1,4 @@
+var struct_c_a_s_m_1_1adapter_1_1_adapter_3_01_supercell_00_01_config_enum_data_3_01_enumerator_type9c74930c110508e7d3bad45843062994 =
+[
+    [ "operator()", "struct_c_a_s_m_1_1adapter_1_1_adapter_3_01_supercell_00_01_config_enum_data_3_01_enumerator_type9c74930c110508e7d3bad45843062994.html#a6bd0f8130902fb623b62c6f16d908818", null ]
+];

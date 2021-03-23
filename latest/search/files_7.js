@@ -1,9 +1,23 @@
 var searchData=
 [
-  ['halloffame_2ehh',['HallOfFame.hh',['../_hall_of_fame_8hh.html',1,'']]],
-  ['handlers_2ecc',['Handlers.cc',['../_handlers_8cc.html',1,'']]],
-  ['handlers_2ehh',['Handlers.hh',['../_handlers_8hh.html',1,'']]],
-  ['hierarchyid_2ehh',['HierarchyID.hh',['../_hierarchy_i_d_8hh.html',1,'']]],
-  ['hull_2ecc',['Hull.cc',['../_hull_8cc.html',1,'']]],
-  ['hull_2ehh',['Hull.hh',['../_hull_8hh.html',1,'']]]
+  ['halloffame_2ehh_7578',['HallOfFame.hh',['../_hall_of_fame_8hh.html',1,'']]],
+  ['hamiltonianmodules_2ecc_7579',['HamiltonianModules.cc',['../_hamiltonian_modules_8cc.html',1,'']]],
+  ['hamiltonianmodules_2ehh_7580',['HamiltonianModules.hh',['../_hamiltonian_modules_8hh.html',1,'']]],
+  ['hamiltonianmodules_5fimpl_2ehh_7581',['HamiltonianModules_impl.hh',['../_hamiltonian_modules__impl_8hh.html',1,'']]],
+  ['handlers_2ecc_7582',['Handlers.cc',['../_handlers_8cc.html',1,'']]],
+  ['handlers_2ehh_7583',['Handlers.hh',['../_handlers_8hh.html',1,'']]],
+  ['hascanonicalform_2ehh_7584',['HasCanonicalForm.hh',['../_has_canonical_form_8hh.html',1,'']]],
+  ['hascanonicalform_5fimpl_2ehh_7585',['HasCanonicalForm_impl.hh',['../_has_canonical_form__impl_8hh.html',1,'']]],
+  ['hasprimclex_2ehh_7586',['HasPrimClex.hh',['../_has_prim_clex_8hh.html',1,'']]],
+  ['hasprimclex_5fimpl_2ehh_7587',['HasPrimClex_impl.hh',['../_has_prim_clex__impl_8hh.html',1,'']]],
+  ['hassupercell_2ehh_7588',['HasSupercell.hh',['../_has_supercell_8hh.html',1,'']]],
+  ['hassupercell_5fimpl_2ehh_7589',['HasSupercell_impl.hh',['../_has_supercell__impl_8hh.html',1,'']]],
+  ['help_2ecc_7590',['help.cc',['../help_8cc.html',1,'']]],
+  ['help_2ehh_7591',['Help.hh',['../casm__io_2_help_8hh.html',1,'']]],
+  ['help_2ehh_7592',['help.hh',['../completer_2_help_8hh.html',1,'']]],
+  ['hermitecounter_2ecc_7593',['HermiteCounter.cc',['../_hermite_counter_8cc.html',1,'']]],
+  ['hermitecounter_2ehh_7594',['HermiteCounter.hh',['../_hermite_counter_8hh.html',1,'']]],
+  ['hierarchyid_2ehh_7595',['HierarchyID.hh',['../_hierarchy_i_d_8hh.html',1,'']]],
+  ['hull_2ecc_7596',['Hull.cc',['../_hull_8cc.html',1,'']]],
+  ['hull_2ehh_7597',['Hull.hh',['../_hull_8hh.html',1,'']]]
 ];

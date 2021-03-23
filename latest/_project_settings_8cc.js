@@ -1,10 +1,14 @@
 var _project_settings_8cc =
 [
-    [ "_default_nlist_sublat_indices", "_project_settings_8cc.html#acc634aa98504d2a9c68767997cffb924", null ],
-    [ "_default_nlist_weight_matrix", "_project_settings_8cc.html#a81cec936f4732a1fc9c9ee54e3055e52", null ],
-    [ "clex_exists", "_project_settings_8cc.html#ga527f6a6696a52bd02374247bb65ade48", null ],
-    [ "from_json", "_project_settings_8cc.html#gaabc5891f07bb0c7993904d0b34e5349e", null ],
-    [ "operator<", "_project_settings_8cc.html#ga8feaff7938a8aa5315a77cac4c1b266f", null ],
-    [ "to_json", "_project_settings_8cc.html#ga1b18b2f4eecbfee3d245b1e2be481ebb", null ],
-    [ "to_json", "_project_settings_8cc.html#ga485ef2fcf99af15b5acd518bc124757b", null ]
+    [ "INST_ProjectSettings_all", "_project_settings_8cc.html#a5e094f6f6779b267538262cb22c32735", null ],
+    [ "commit", "_project_settings_8cc.html#ga1e9cbdd6f0f64a15a91c7381530deb4f", null ],
+    [ "create_all_directories", "_project_settings_8cc.html#ga40e287f922e5dc925067d11e23a2173e", null ],
+    [ "is_valid_project_name", "_project_settings_8cc.html#ga40749c7181247a2fce5ceddf5964b389", null ],
+    [ "open_project_settings", "_project_settings_8cc.html#ga214917f815825f96e7b14890d67034bd", null ],
+    [ "print_compiler_settings_summary", "_project_settings_8cc.html#ga5959d63f862fb4862b0c55f8aced2316", null ],
+    [ "print_summary", "_project_settings_8cc.html#ga2a19f93a77de8a392fbcaec0ec2a1af4", null ],
+    [ "read_project_settings", "_project_settings_8cc.html#gafb94033cfb231c687734b5af409da7c6", null ],
+    [ "throw_if_project_name_is_not_valid", "_project_settings_8cc.html#ga4f65d89484b5424e3ce4f6ea783c571d", null ],
+    [ "to_json", "_project_settings_8cc.html#ga485ef2fcf99af15b5acd518bc124757b", null ],
+    [ "write_project_settings", "_project_settings_8cc.html#gac272bbc3b3d3849b2eb9688368daacea", null ]
 ];

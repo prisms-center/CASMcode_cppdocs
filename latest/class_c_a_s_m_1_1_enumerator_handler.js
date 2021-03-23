@@ -1,10 +1,13 @@
 var class_c_a_s_m_1_1_enumerator_handler =
 [
-    [ "EnumeratorHandler", "class_c_a_s_m_1_1_enumerator_handler.html#a737a771eb54310b66328022681de6f94", null ],
-    [ "~EnumeratorHandler", "class_c_a_s_m_1_1_enumerator_handler.html#ae6bd39bf8764c5887aa0774043f009f7", null ],
-    [ "map", "class_c_a_s_m_1_1_enumerator_handler.html#a1d18e9a10c15aff89b33fc34273de9d1", null ],
-    [ "map", "class_c_a_s_m_1_1_enumerator_handler.html#a9c8c6a9b2964ab7d568a000d1928af88", null ],
-    [ "m_enumerator", "class_c_a_s_m_1_1_enumerator_handler.html#af42d4528e106167386ab9fd8b6b0cda8", null ],
+    [ "EnumeratorHandler", "class_c_a_s_m_1_1_enumerator_handler.html#aed9b1b3e902933e1d4a4f500e42496d6", null ],
+    [ "_clone", "class_c_a_s_m_1_1_enumerator_handler.html#a3811abee8db21b94df0562789202bab4", null ],
+    [ "_move", "class_c_a_s_m_1_1_enumerator_handler.html#a488ae2b80093b8dd3f7fe701dde283db", null ],
+    [ "clone", "class_c_a_s_m_1_1_enumerator_handler.html#a0baf308749cf046c968b6a2cbe3dd68b", null ],
+    [ "get", "class_c_a_s_m_1_1_enumerator_handler.html#a67a65f3fd9ae33554360854d0f2cdf98", null ],
+    [ "get", "class_c_a_s_m_1_1_enumerator_handler.html#aed11df608528457cb6c774631c1df6e9", null ],
+    [ "move", "class_c_a_s_m_1_1_enumerator_handler.html#a84ca17849369c050c28975198af1d754", null ],
+    [ "m_enumerator", "class_c_a_s_m_1_1_enumerator_handler.html#a8e97084271246f8a6022b15a92a52c2d", null ],
     [ "m_lib", "class_c_a_s_m_1_1_enumerator_handler.html#a2ee065d2acc3e3d96fca5fe1eeebe1bf", null ],
-    [ "m_set", "class_c_a_s_m_1_1_enumerator_handler.html#adf049aff767a6101de26db70255d5dc3", null ]
+    [ "m_set", "class_c_a_s_m_1_1_enumerator_handler.html#a1191ace3abe9160f04e0b3b4d174e6d0", null ]
 ];

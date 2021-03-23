@@ -1,0 +1,98 @@
+var group___orbit_generation =
+[
+    [ "ScelCanonicalGenerator", "class_c_a_s_m_1_1_scel_canonical_generator.html", [
+      [ "Element", "class_c_a_s_m_1_1_scel_canonical_generator.html#a2a68a48373383c97a7b298fe69d7a5a8", null ],
+      [ "OrbitType", "class_c_a_s_m_1_1_scel_canonical_generator.html#af5d5d36974a814e1d20c905e6e77db72", null ],
+      [ "SymCompareType", "class_c_a_s_m_1_1_scel_canonical_generator.html#a7e5e60bcab649c92f5f1b3d775424aea", null ],
+      [ "ScelCanonicalGenerator", "class_c_a_s_m_1_1_scel_canonical_generator.html#acd5d2f762569a67e996bce91820e6e54", null ],
+      [ "from_canonical", "class_c_a_s_m_1_1_scel_canonical_generator.html#a0492b3ea19a3c0540bbf298d8d0c0487", null ],
+      [ "operator()", "class_c_a_s_m_1_1_scel_canonical_generator.html#a152785339f2c834435ee6e0476bc70bd", null ],
+      [ "operator()", "class_c_a_s_m_1_1_scel_canonical_generator.html#a183f36201405ef96c6a55004b129db00", null ],
+      [ "supercell", "class_c_a_s_m_1_1_scel_canonical_generator.html#a0ee2d88ed81672534600b00ab3b0f897", null ],
+      [ "sym_compare", "class_c_a_s_m_1_1_scel_canonical_generator.html#a426b4c35cc01ea2f67a1762384086e9a", null ],
+      [ "to_canonical", "class_c_a_s_m_1_1_scel_canonical_generator.html#a9027de155738f2a0eea1800fb292ef84", null ],
+      [ "m_scel", "class_c_a_s_m_1_1_scel_canonical_generator.html#a52765f979add141409a9bf4a869ff580", null ],
+      [ "m_sym_compare", "class_c_a_s_m_1_1_scel_canonical_generator.html#a862e50c0e12d45d9461f1060e6e6a0fb", null ],
+      [ "m_to_canonical", "class_c_a_s_m_1_1_scel_canonical_generator.html#aecc66f210ff9d634adcf54f6d04884d2", null ]
+    ] ],
+    [ "ScelIsCanonical", "struct_c_a_s_m_1_1_scel_is_canonical.html", [
+      [ "Element", "struct_c_a_s_m_1_1_scel_is_canonical.html#a85a01f36171ce83262ed8ab1a2792664", null ],
+      [ "SymCompareType", "struct_c_a_s_m_1_1_scel_is_canonical.html#ae54e283236b607caf0e61ae36751fc27", null ],
+      [ "ScelIsCanonical", "struct_c_a_s_m_1_1_scel_is_canonical.html#acb5aa6a2d5ccebb6c4139bd41a8d7553", null ],
+      [ "operator()", "struct_c_a_s_m_1_1_scel_is_canonical.html#ae06a7e0e4d32bc93bd6506d9f8c6f01e", null ],
+      [ "operator()", "struct_c_a_s_m_1_1_scel_is_canonical.html#af7f58d66a0a96689574272a0570b2625", null ],
+      [ "supercell", "struct_c_a_s_m_1_1_scel_is_canonical.html#a2fbc25f43e39613204fa0cccf9eed327", null ],
+      [ "sym_compare", "struct_c_a_s_m_1_1_scel_is_canonical.html#a6bf31c57114451b6a309e69a9d9383a4", null ],
+      [ "m_scel", "struct_c_a_s_m_1_1_scel_is_canonical.html#a8e1970633aaaee3e6374101b0ef03d99", null ],
+      [ "m_sym_compare", "struct_c_a_s_m_1_1_scel_is_canonical.html#ab0a683f22615e7c51fca9331960d5c83", null ]
+    ] ],
+    [ "OrbitGenerators", "struct_c_a_s_m_1_1_orbit_generators.html", [
+      [ "Element", "struct_c_a_s_m_1_1_orbit_generators.html#a9cb9444c27e4589e2f03485d9a4172c5", null ],
+      [ "OrbitType", "struct_c_a_s_m_1_1_orbit_generators.html#a8209ef767e3a5e9f374d9952266469ef", null ],
+      [ "SymCompareType", "struct_c_a_s_m_1_1_orbit_generators.html#a6fd15b5ddbc4493cf711573d13b9a3dd", null ],
+      [ "OrbitGenerators", "struct_c_a_s_m_1_1_orbit_generators.html#a7119e96b6951f433cf1df0c5d6a111d2", null ],
+      [ "insert", "struct_c_a_s_m_1_1_orbit_generators.html#a6891692c7160f375ffc38b1ea8be9247", null ],
+      [ "insert_canonical", "struct_c_a_s_m_1_1_orbit_generators.html#a714b2b9ea93806a8b9374eff0a5f45ce", null ],
+      [ "make_orbits", "struct_c_a_s_m_1_1_orbit_generators.html#a2f986b8b699eaa771fa3c435b1422c5b", null ],
+      [ "elements", "struct_c_a_s_m_1_1_orbit_generators.html#a28140fa821cbed12293ea4039ea95c63", null ],
+      [ "group", "struct_c_a_s_m_1_1_orbit_generators.html#aafa5d2b65efa9001aa0427a574d12cc4", null ],
+      [ "m_element_compare", "struct_c_a_s_m_1_1_orbit_generators.html#abec7ba38e8338ec7fb8f8ff188d06a2c", null ],
+      [ "m_generate_canonical", "struct_c_a_s_m_1_1_orbit_generators.html#aa6cbdd3128a6569dec91ec72fdaff97c", null ],
+      [ "sym_compare", "struct_c_a_s_m_1_1_orbit_generators.html#a402f95ff184828064b9796f423a688ba", null ]
+    ] ],
+    [ "OrbitGeneratorCompare", "struct_c_a_s_m_1_1_orbit_generator_compare.html", [
+      [ "Element", "struct_c_a_s_m_1_1_orbit_generator_compare.html#a62582d2efb1667832ed78e50ed739dba", null ],
+      [ "OrbitType", "struct_c_a_s_m_1_1_orbit_generator_compare.html#aa9f5d8671bbf38667efb8bcd5b15786a", null ],
+      [ "SymCompareType", "struct_c_a_s_m_1_1_orbit_generator_compare.html#aa23d60728f025c999bbcc30c1ae027d6", null ],
+      [ "OrbitGeneratorCompare", "struct_c_a_s_m_1_1_orbit_generator_compare.html#a4286e3d360e3df7c06bf0acacd13f587", null ],
+      [ "operator()", "struct_c_a_s_m_1_1_orbit_generator_compare.html#a774460f737c7b1fa0f188c27365dc8b3", null ],
+      [ "sym_compare", "struct_c_a_s_m_1_1_orbit_generator_compare.html#a4ef21b4f377e10fb6268529c0150eacd", null ]
+    ] ],
+    [ "CanonicalGenerator", "struct_c_a_s_m_1_1_canonical_generator.html", [
+      [ "Element", "struct_c_a_s_m_1_1_canonical_generator.html#a5fdc9d08506c82fa7c7cc6f4cca0482e", null ],
+      [ "OrbitType", "struct_c_a_s_m_1_1_canonical_generator.html#a630b111f4f44cbf9fca6bfffb78d20ac", null ],
+      [ "SymCompareType", "struct_c_a_s_m_1_1_canonical_generator.html#acf6a4cfbefde523a04b0cd01160da4a0", null ],
+      [ "CanonicalGenerator", "struct_c_a_s_m_1_1_canonical_generator.html#a9dcce94e451ddd547318d3e5e7b8d293", null ],
+      [ "from_canonical", "struct_c_a_s_m_1_1_canonical_generator.html#a2d3a3105c1ce698f472e106b14dbf7bc", null ],
+      [ "operator()", "struct_c_a_s_m_1_1_canonical_generator.html#ad8eea46804b5e51d50729a51c7a8980d", null ],
+      [ "to_canonical", "struct_c_a_s_m_1_1_canonical_generator.html#a78239cee0c2a3debf82037d79dec5b27", null ],
+      [ "generating_group", "struct_c_a_s_m_1_1_canonical_generator.html#ace844fc8d2f5e1d23512c8cb2c36eb28", null ],
+      [ "m_to_canonical", "struct_c_a_s_m_1_1_canonical_generator.html#af4d7b8bb57cf12a12a265bf1a87ed9a8", null ],
+      [ "sym_compare", "struct_c_a_s_m_1_1_canonical_generator.html#ad84f0081ab955b1addb4cc21c986542e", null ]
+    ] ],
+    [ "IsCanonical", "struct_c_a_s_m_1_1_is_canonical.html", [
+      [ "Element", "struct_c_a_s_m_1_1_is_canonical.html#a2f0667f482a8c6afa89d13d788f75c71", null ],
+      [ "OrbitType", "struct_c_a_s_m_1_1_is_canonical.html#ada56682d5d4964d99db4626d3a57332e", null ],
+      [ "SymCompareType", "struct_c_a_s_m_1_1_is_canonical.html#a06d0d64c1b64f94b90ac0666fe7b3bcc", null ],
+      [ "IsCanonical", "struct_c_a_s_m_1_1_is_canonical.html#ab596d3c4ab15dd527bd2839a91263a6b", null ],
+      [ "operator()", "struct_c_a_s_m_1_1_is_canonical.html#ad2d38b43a3423c1a25b65ee7b5e23323", null ],
+      [ "generating_group", "struct_c_a_s_m_1_1_is_canonical.html#a4d7c02ef732889c84e2460156f6378f1", null ],
+      [ "sym_compare", "struct_c_a_s_m_1_1_is_canonical.html#a6a023ce285389b82b38dcc2f89f1b437", null ]
+    ] ],
+    [ "SimpleOrbit", "class_c_a_s_m_1_1_simple_orbit.html", [
+      [ "const_iterator", "class_c_a_s_m_1_1_simple_orbit.html#aeaac53d7db96aa50b7e3f70ca557a991", null ],
+      [ "Element", "class_c_a_s_m_1_1_simple_orbit.html#a631ca61b100c11966e6b3782cd3ed0e9", null ],
+      [ "InvariantsType", "class_c_a_s_m_1_1_simple_orbit.html#a2c337f7230b5383524287480528c4602", null ],
+      [ "size_type", "class_c_a_s_m_1_1_simple_orbit.html#a30f57d690399a21a0cc2600a20418ebd", null ],
+      [ "SymCompareType", "class_c_a_s_m_1_1_simple_orbit.html#a80566da358fe767d7941ae037907e04c", null ],
+      [ "SimpleOrbit", "class_c_a_s_m_1_1_simple_orbit.html#a38efba9f1fcb974c80201e1d9c1efacf", null ],
+      [ "begin", "class_c_a_s_m_1_1_simple_orbit.html#a869352234f7317d6f0b6fa3a1f3e37c1", null ],
+      [ "cbegin", "class_c_a_s_m_1_1_simple_orbit.html#ab2dc2adcd553351cfa55572387a84438", null ],
+      [ "cend", "class_c_a_s_m_1_1_simple_orbit.html#a85f8d8317dafa7349bee293f8e2a6aa0", null ],
+      [ "element", "class_c_a_s_m_1_1_simple_orbit.html#ae6569def94465e257a784034545f1492", null ],
+      [ "elements", "class_c_a_s_m_1_1_simple_orbit.html#a7a73d02b491c46f199ec5d93be6c87d1", null ],
+      [ "end", "class_c_a_s_m_1_1_simple_orbit.html#a670d211944c46048c02192177c837f5a", null ],
+      [ "equivalence_map", "class_c_a_s_m_1_1_simple_orbit.html#a0e9d629eee58b9ead7e1bac6b7fdf768", null ],
+      [ "generating_group", "class_c_a_s_m_1_1_simple_orbit.html#aa33e94ae5e4bfec91798ae803c5dda8a", null ],
+      [ "invariants", "class_c_a_s_m_1_1_simple_orbit.html#a016a363d5706dce337b8dfa7e6d3f07a", null ],
+      [ "operator<", "class_c_a_s_m_1_1_simple_orbit.html#abec0c853bc3b479bf4fbec84bd483403", null ],
+      [ "operator[]", "class_c_a_s_m_1_1_simple_orbit.html#a4724ecd19cfe7deee919a3ffe81b3874", null ],
+      [ "prototype", "class_c_a_s_m_1_1_simple_orbit.html#abf399b1b4a98fff689d93dd404ddf381", null ],
+      [ "size", "class_c_a_s_m_1_1_simple_orbit.html#a3fac73844bfed0c0f68cc9ec52217228", null ],
+      [ "sym_compare", "class_c_a_s_m_1_1_simple_orbit.html#a84b747d7f0dbe8acfa7d2ad218fcb0f6", null ],
+      [ "m_element", "class_c_a_s_m_1_1_simple_orbit.html#a6adca55150fbdddcfa901545ca1249db", null ],
+      [ "m_invariants", "class_c_a_s_m_1_1_simple_orbit.html#ad9f56e0870dcc3503ecf3431f63c7b9a", null ],
+      [ "m_sym_compare", "class_c_a_s_m_1_1_simple_orbit.html#aee9673909eb4887eef8d66b84d45b854", null ]
+    ] ],
+    [ "OrbitGeneratorSet", "group___orbit_generation.html#gaa84bdb12bdc150d7d72219c4a49f363f", null ]
+];
